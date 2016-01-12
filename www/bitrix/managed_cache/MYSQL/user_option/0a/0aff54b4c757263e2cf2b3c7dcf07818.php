@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001452588917';
+$dateexpire = '001452592517';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:15:{s:26:"user_settings__filesrc_pub";a:4:{s:13:"taskbar_shown";s:1:"1";s:4:"view";s:4:"code";s:14:"split_vertical";s:1:"0";s:16:"link_dialog_type";s:8:"internal";}s:22:"user_settings__filesrc";a:1:{s:4:"view";s:4:"code";}s:26:"type_selector_DETAIL_TEXT5";a:1:{s:4:"type";s:4:"html";}s:27:"type_selector_PREVIEW_TEXT5";a:1:{s:4:"type";s:4:"html";}s:27:"user_settings__PREVIEW_TEXT";a:2:{s:16:"link_dialog_type";s:8:"internal";s:4:"view";s:7:"wysiwyg";}s:25:"type_selector_DESCRIPTION";a:1:{s:4:"type";s:6:"editor";}s:27:"type_selector_DETAIL_TEXT12";a:1:{s:4:"type";s:6:"editor";}s:26:"type_selector_DETAIL_TEXT7";a:1:{s:4:"type";s:6:"editor";}s:27:"type_selector_PREVIEW_TEXT7";a:1:{s:4:"type";s:6:"editor";}s:26:"type_selector_DETAIL_TEXT6";a:1:{s:4:"type";s:6:"editor";}s:27:"type_selector_DETAIL_TEXT11";a:1:{s:4:"type";s:6:"editor";}s:26:"user_settings__DETAIL_TEXT";a:2:{s:16:"link_dialog_type";s:8:"internal";s:4:"view";s:7:"wysiwyg";}s:26:"type_selector_DETAIL_TEXT4";a:1:{s:4:"type";s:6:"editor";}s:26:"user_settings__DESCRIPTION";a:2:{s:16:"link_dialog_type";s:8:"internal";s:4:"view";s:7:"wysiwyg";}s:27:"type_selector_PREVIEW_TEXT8";a:1:{s:4:"type";s:4:"text";}}}';
+return true;
+?>

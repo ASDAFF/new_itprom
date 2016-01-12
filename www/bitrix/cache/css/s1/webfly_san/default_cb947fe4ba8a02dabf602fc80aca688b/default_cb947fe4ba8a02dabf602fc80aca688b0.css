@@ -1,0 +1,12 @@
+
+/* Start:/bitrix/templates/webfly_san/components/webfly/message.add/main_feed/style.css?1452456311115*/
+.error{
+  border: 1px solid red;
+}
+.error-dash{
+  border: 1px dashed red;
+}
+.error-dot{
+  border: 1px dotted red;
+}
+/* End */

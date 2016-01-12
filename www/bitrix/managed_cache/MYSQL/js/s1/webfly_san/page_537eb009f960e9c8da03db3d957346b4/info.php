@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.smart.filter/santech/script.js" => "145245630919094","/bitrix/templates/webfly_san/components/bitrix/catalog/santech1_5/bitrix/catalog.section/tiles/script.js" => "145245630937408",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

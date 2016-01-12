@@ -1,0 +1,18 @@
+
+/* Start:/bitrix/templates/webfly_san/components/bitrix/system.auth.form/auth/style.css?1452456310442*/
+div.bx-system-auth-form span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:bottom; margin-top:-1px;}
+div.bx-system-auth-form div.bx-auth-secure-icon {background-image:url(/bitrix/templates/webfly_san/components/bitrix/system.auth.form/auth/images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-system-auth-form div.bx-auth-secure-unlock {background-image:url(/bitrix/templates/webfly_san/components/bitrix/system.auth.form/auth/images/sec-unlocked.png);}
+
+/* End */
+
+/* Start:/bitrix/templates/webfly_san/components/bitrix/main.register/register/style.css?1452456310537*/
+div.bx-auth-reg input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-reg span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-reg div.bx-auth-secure-icon {background-image:url(/bitrix/templates/webfly_san/components/bitrix/main.register/register/images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-reg div.bx-auth-secure-unlock {background-image:url(/bitrix/templates/webfly_san/components/bitrix/main.register/register/images/sec-unlocked.png);}
+.notification{
+  font: 12px/14px 'ubunturegular';
+  text-transform: none;
+}
+/* End */

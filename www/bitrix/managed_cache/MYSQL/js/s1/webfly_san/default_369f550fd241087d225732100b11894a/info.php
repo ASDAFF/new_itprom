@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/webfly_san/components/bitrix/sale.basket.basket.line/footer/script.js" => "14524563103272",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

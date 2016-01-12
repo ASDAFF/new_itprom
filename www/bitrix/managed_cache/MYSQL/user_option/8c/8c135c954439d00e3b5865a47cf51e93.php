@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001452588912';
+$dateexpire = '001452592512';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:16:{s:58:"tbl_iblock_element_4c4e2de1b05a7341d861cc34a4e59c1b_filter";a:1:{s:4:"rows";s:41:"IBEL_A_F_PARENT,IBEL_A_F_ID,IBEL_A_F_NAME";}s:32:"tbl_wf_brand_reference_filter_id";a:1:{s:4:"rows";s:1:"0";}s:25:"tbl_wf_settings_filter_id";a:1:{s:4:"rows";s:1:"0";}s:35:"tbl_eshop_brand_reference_filter_id";a:1:{s:4:"rows";s:1:"0";}s:22:"b_catalog_store_filter";a:1:{s:4:"rows";s:1:"0";}s:58:"tbl_iblock_section_4c4e2de1b05a7341d861cc34a4e59c1b_filter";a:2:{s:4:"rows";s:13:"parent,miss-0";s:11:"styleFolded";s:1:"N";}s:27:"b_catalog_store_docs_filter";a:1:{s:4:"rows";s:1:"0";}s:29:"tbl_eshop_favorites_filter_id";a:1:{s:4:"rows";s:1:"0";}s:35:"tbl_eshop_color_reference_filter_id";a:1:{s:4:"rows";s:1:"0";}s:21:"tbl_sale_order_filter";a:2:{s:14:"presetsDeleted";s:20:"page-find_order_null";s:4:"rows";s:15:"filter_canceled";}s:59:"tbl_iblock_el_searchb08892a7861691dbd22fe80064b858ca_filter";a:1:{s:4:"rows";s:2:"id";}s:26:"table_order_change_filters";a:1:{s:4:"rows";s:18:"filter_user,miss-0";}s:29:"tbl_location_node_list_filter";a:1:{s:4:"rows";s:1:"0";}s:17:"tbl_entity_filter";a:1:{s:4:"rows";s:1:"0";}s:20:"tbl_type_list_filter";a:1:{s:4:"rows";s:1:"0";}s:57:"tbl_product_admin_51650330e96c767cf675e245aee13389_filter";a:1:{s:4:"rows";s:22:"miss-0,IBEL_A_F_PARENT";}}}';
+return true;
+?>
